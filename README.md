@@ -20,3 +20,5 @@ Paso 2: crea una función llamada muestraSiElNiñoPuedeSubirALaMontañaRusa.
 Paso 3: dentro de la función, crea la siguiente condicional
 
 Si el alturaNiño es mayor a 52, el console.log debe decir "¡Súbete, chico!". Si no, console.log debe mostrar "Lo siento, chico. Tal vez el próximo año”.
+
+Link: https://fernandogbz.github.io/jugueteo-coding-dojo/
